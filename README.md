@@ -12,3 +12,6 @@
 
 [5. Acknowledgements](acknowledgements.md)
 
+Here is a picture of the Juventus Logo throughout the years!
+
+![Juventus Logos](https://www.underconsideration.com/brandnew/archives/juventus_logo_evolution.png)
