@@ -4,8 +4,12 @@
 
 ## Table of Contents
 [1. About Me](AboutMe.md)
-[2. Mason at Mizzou](insert link here)
-[3. Outside of School](insert link here)
-[4. After Mizzou](insert link here)
-[5. Acknowledgements](insert link here)
+
+[2. Mason at Mizzou](MasonatMizzou.md)
+
+[3. Outside of School](OutsideofSchool.md)
+
+[4. After Mizzou](AfterSchool.md)
+
+[5. Acknowledgements](acknowledgements.md)
 
