@@ -15,3 +15,8 @@
 Here is a picture of the Juventus Logo throughout the years!
 
 ![Juventus Logos](https://www.underconsideration.com/brandnew/archives/juventus_logo_evolution.png)
+
+Here is the current Juventus logo:
+![Current Juventus Logo](download.jpg)
+
+Thank you for reading _my_ **Final Project**! 
