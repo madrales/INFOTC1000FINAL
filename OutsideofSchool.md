@@ -14,6 +14,6 @@ Here is the current Juventus logo:
 
 **Forza Juve!**
 
-Click [here](README.md) to go back to the homepage!
+**Click [here](README.md) to go back to the homepage!**
 
 [Next: After School](AfterSchool.md)
