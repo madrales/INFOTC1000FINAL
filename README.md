@@ -1,4 +1,3 @@
-"# INFOTC1000FINAL" 
 # Final for INFOTC 1000
 ### This is an assignment created and completed by _Mason Adrales_
 
