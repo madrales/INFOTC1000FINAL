@@ -1,6 +1,6 @@
 # After School
 ---
-[Go back](README.md)
+[Go back: Outside of School](OutsideofSchool.md)
 
 After school, my plans are to get a job in the Information Technology and live my life out in either Kansas City or whichever city I get offers from.
 I look forward to learning more and more about new technologies as well as expanding on the topics I already know. 
@@ -10,5 +10,7 @@ Currently, I look to get a position in **Networking or Security**. I linked the 
 
 
 [DEG Digital](https://www.degdigital.com/)
+
+**Click [here](README.md) to go back to the homepage!**
 
 [Next: Acknowledgements](acknowledgements.md)
