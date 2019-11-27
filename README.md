@@ -14,12 +14,4 @@ This assignment is meant to explain a little about me; Mason Adrales. I first pr
 
 [5. Acknowledgements](acknowledgements.md)
 
-Here is a picture of the Juventus Logo throughout the years!
-
-![Juventus Logos](https://www.underconsideration.com/brandnew/archives/juventus_logo_evolution.png)
-
-Here is the current Juventus logo:
-
-![Current Juventus Logo](download.png)
-
 Thank you for reading _my_ **Final Project**! 
